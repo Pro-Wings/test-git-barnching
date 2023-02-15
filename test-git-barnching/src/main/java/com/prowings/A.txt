@@ -3,8 +3,11 @@
 
 Hello Java developers.. welcome to Git.. 
 Change in development branch.. another push from another contributor. Hello Java developers..
+--Dev3 Change--
 Its fun learn branchin strategy of git/gihub. Hello this is my final commit1.
+ --Dev3 Change--
  Hello this is my final commit2.
 Comments can be used to include related links, information, and terms. 
 They are visible only in the source code; not in the XML code. 
+--Dev3 Change--
 Comments may appear anywhere in XML code.
